@@ -1,0 +1,11 @@
+{
+  "title": "Weights Capital — AI Startup Accelerator",
+  "description": "Accelerates AI startups with compute credits, technical reviews, seed funding, and enterprise pilot connections.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}

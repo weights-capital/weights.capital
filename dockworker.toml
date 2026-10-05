@@ -1,0 +1,8 @@
+[build]
+name = "weights-capital"
+version = "1.0.0"
+runtime = "bun"
+
+[deploy]
+namespace = "weights-capital"
+manifest = "apps/weights-capital/base"

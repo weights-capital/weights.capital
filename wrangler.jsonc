@@ -1,0 +1,9 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "weights-capital",
+  "pages_build_output_dir": "./dist",
+  "compatibility_date": "2026-09-01",
+  "kv_namespaces": [
+    { "binding": "APPLICATIONS", "id": "e9507e53f03f4d68916ad6bf42203f8b" }
+  ]
+}
